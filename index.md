@@ -54,7 +54,6 @@ layout: default
 <p>Dragonix a également des choses telles que des commandes personnalisées, des rappels, des commandes d'informations, des commandes amusantes, des jeux, ...</p>
 </div>
 </div>
-[Link to another page](./another-page.html).
 <h3 align="center">Pour commencer</h3>
 <h5 align="center">Invitez Dragonix sur votre serveur Discord pour commencer !</h6>
 <div style="margin-left: auto; margin-right: auto;width: 100px"><a class="btn btn-primary fw-500" href="/invite">Add to discord</a></div>
