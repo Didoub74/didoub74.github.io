@@ -7,6 +7,7 @@ layout: default
 <h4 align="center">
   Dragonix a les fonctionnalités suivantes pour améliorer votre serveur Discord 
 </h4>
+<br />
 
 <div _ngcontent-uha-c44="" class="row gx-5 text-center">
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
