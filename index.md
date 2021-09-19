@@ -11,166 +11,50 @@ layout: default
 
 <div _ngcontent-uha-c44="" class="row gx-5 text-center">
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Music system</h6>
-<p>Green-bot has a powefull music system with a wonderfull quality and a dj system (Youtube, Soundcloud, Twitch, and more!</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Système de Musique</h6>
+<p>Dragonix possède un système de musique puissant avec une qualité merveilleuse et un système dj (Youtube, Soundcloud, Twitch, et plus encore !</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
 <h6 _ngcontent-uha-c44="" class="mb-3">Anti-raid</h6>
-<p>Powerful security features,a responsive team. A configurable captcha. Smart anti-spam, anti selfbot, anti caps And many others to protect your server...</p>
+<p>Des fonctionnalités de sécurité puissantes, une équipe réactive. Un captcha paramétrable. Anti-spam intelligent, anti selfbot, anti majuscule Et bien d'autres pour protéger votre serveur...</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Moderation</h6>
-<p>Green-bot has a powefull moderation system (massban, softban etc) and a log of every moderation action.</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Modération</h6>
+<p>Dragonix dispose d'un puissant système de modération (massban, softban, etc.) et d'un journal de chaque action de modération.</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Logging</h6>
-<p>Logs discord events (joins, leaves, message modifications, attachments, nickname changes, and more)</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Log</h6>
+<p>Enregistre les événements de Discord (arrivés, départ, modifications de message, pièces jointes, changements de pseudo, etc.)</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Youtube notifications</h6>
-<p>Send a message in a specific channel when your favourite youtuber post a new video !</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Notifications Youtube</h6>
+<p>Envoyez un message dans une chaîne spécifique lorsque votre Youtubeur préféré publie une nouvelle vidéo !</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Role Management</h6>
-<p>Assign roles by reacting on a message or by using commands. Assing role to a specific number of messages or level.</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Gérer les rôle</h6>
+<p>Attribuez des rôles en réagissant sur un message ou en utilisant des commandes. Système d'attribution de rôle à un nombre spécifique de messages ou de niveau.</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Birthdays system</h6>
-<p>Allow your users to define their birthdays. Send a message to a channel on the birthday of one of them!</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Système d'anniversaire</h6>
+<p>Permettez à vos utilisateurs de définir leurs anniversaires. Envoyez un message à une chaîne le jour de l'anniversaire de l'une d'entre elles !</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Engagement</h6>
-<p>Engage your members with features like starboard, suggestions, giveaways, wand more.</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Incitation</h6>
+<p>Incitez vos membres avec des fonctionnalités telles que les suggestions, giveaways et plus.</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
 <h6 _ngcontent-uha-c44="" class="mb-3">Auto responders &amp; auto reactions</h6>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">Auto-role</h6>
-<p>Automatically assign a role to members when they join! Autorole for bots and autorole for users.</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Auto-rôle</h6>
+<p>Attribuez automatiquement un rôle aux membres lors de leur arrivé ! Autorole pour les bots et autorole pour les utilisateurs.</p>
 </div>
 <div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
-<h6 _ngcontent-uha-c44="" class="mb-3">And More</h6>
-<p>Green-bot also has things such as custom commands, reminders, information commands, fun commands, games, ...</p>
+<h6 _ngcontent-uha-c44="" class="mb-3">Et plus encore</h6>
+<p>Dragonix a également des choses telles que des commandes personnalisées, des rappels, des commandes d'informations, des commandes amusantes, des jeux, ...</p>
 </div>
 </div>
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<h3 align="center">Pour commencer</h3>
+<h5 align="center">Invitez Dragonix sur votre serveur Discord pour commencer !</h6>
+<div style="margin-left: auto; margin-right: auto;width: 100px"><a class="btn btn-primary fw-500" href="/invite">Add to discord</a></div>
