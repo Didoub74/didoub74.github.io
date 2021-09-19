@@ -1,6 +1,58 @@
 ---
 layout: default
 ---
+<h2 align="center">
+  Que fait t'il ?
+</h2>
+<h4 align="center">
+  Dragonix a les fonctionnalités suivantes pour améliorer votre serveur Discord 
+</h4>
+
+<div _ngcontent-uha-c44="" class="row gx-5 text-center">
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Music system</h6>
+<p>Green-bot has a powefull music system with a wonderfull quality and a dj system (Youtube, Soundcloud, Twitch, and more!</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Anti-raid</h6>
+<p>Powerful security features,a responsive team. A configurable captcha. Smart anti-spam, anti selfbot, anti caps And many others to protect your server...</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Moderation</h6>
+<p>Green-bot has a powefull moderation system (massban, softban etc) and a log of every moderation action.</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Logging</h6>
+<p>Logs discord events (joins, leaves, message modifications, attachments, nickname changes, and more)</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Youtube notifications</h6>
+<p>Send a message in a specific channel when your favourite youtuber post a new video !</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Role Management</h6>
+<p>Assign roles by reacting on a message or by using commands. Assing role to a specific number of messages or level.</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Birthdays system</h6>
+<p>Allow your users to define their birthdays. Send a message to a channel on the birthday of one of them!</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Engagement</h6>
+<p>Engage your members with features like starboard, suggestions, giveaways, wand more.</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Auto responders &amp; auto reactions</h6>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">Auto-role</h6>
+<p>Automatically assign a role to members when they join! Autorole for bots and autorole for users.</p>
+</div>
+<div _ngcontent-uha-c44="" class="col-lg-4 mb-5">
+<h6 _ngcontent-uha-c44="" class="mb-3">And More</h6>
+<p>Green-bot also has things such as custom commands, reminders, information commands, fun commands, games, ...</p>
+</div>
+</div>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
