@@ -56,4 +56,4 @@ layout: default
 </div>
 <h3 align="center">Pour commencer</h3>
 <h5 align="center" style="margin-bottom: 20px">Invitez Dragonix sur votre serveur Discord pour commencer !</h5>
-<div style="margin-left: auto; margin-right: auto;width: 134.73px"><a class="btn btn-primary fw-500" href="/invite">Add to discord</a></div>
+<div style="margin-left: auto; margin-right: auto;width: 152.33px"><a class="btn btn-primary fw-500" href="/invite">Ajouter à Discord</a></div>
