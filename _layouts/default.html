@@ -31,14 +31,15 @@
        </div>
     </nav>
     <div class="site-overlay"></div>
-    
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+    <div id="container">
+      <main id="content" class="main-content" role="main">
+        {{ content }}
 
-      <footer class="site-footer">
-        <span class="site-footer-credits">{{ page.title | default: site.title | default: site.github.repository_name }}.</span>
-      </footer>
-    </main>
-  <script src="/script/pushy.min.js"></script>
+        <footer class="site-footer">
+          <span class="site-footer-credits">{{ page.title | default: site.title | default: site.github.repository_name }}.</span>
+        </footer>
+      </main>
+    </div>
+    <script src="/script/pushy.min.js"></script>
   </body>
 </html>
